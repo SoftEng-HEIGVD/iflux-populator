@@ -1,0 +1,26 @@
+{
+  "name": "iflux-populator",
+  "description": "iFLUX Populator",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Laurent Prevost",
+    "email": "laurent.prevost@heig-vd.ch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoftEng-HEIGVD/iflux-populator.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/SoftEng-HEIGVD/iflux-server-starter",
+  "bugs": {
+    "url": "https://github.com/SoftEng-HEIGVD/iflux-server-starter/issues"
+  },
+  "dependencies": {
+    "api-copilot": "^0.6.0",
+    "colors": "^1.1.0",
+    "electrolyte": "0.0.6",
+    "underscore": "^1.8.2",
+    "underscore.string": "^3.1.1"
+  }
+}
