@@ -2,7 +2,6 @@
   "name": "iflux-populator",
   "description": "iFLUX Populator",
   "version": "0.0.1",
-  "private": true,
   "author": {
     "name": "Laurent Prevost",
     "email": "laurent.prevost@heig-vd.ch"
